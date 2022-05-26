@@ -1,4 +1,4 @@
 - 👋 Olá, eu sou @iJulioDuarte
 - 🌅 Sou do Brasil
 - 📩 Meu email é: juliocesarvduarte2003@gmail.com
-- 👨‍💻Desenvolvedor Iniciante(Python, MySql, HTML e CSS)
+- 👨‍💻Desenvolvedor Iniciante(Python, MySQL, HTML e CSS)
