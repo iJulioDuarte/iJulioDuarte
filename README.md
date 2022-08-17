@@ -27,7 +27,7 @@
 
   <div> 
   <a href="https://www.instagram.com/ijulio.duarte/" target="_blank"><img align="right" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/1384/1384015.png" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/julio-duarte-28b67423a/" target="_blank"><img align="right" height="30" width="30" src="https://cdn-icons.flaticon.com/png/512/4494/premium/4494498.png?token=exp=1659015162~hmac=c1d9823736711623b833f10afdf81f33" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/julio-duarte-28b67423a/" target="_blank"><img align="right" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" target="_blank"></a> 
   </div>
 </div>
 
