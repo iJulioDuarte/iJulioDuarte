@@ -9,7 +9,7 @@
 <br>
 <br>
 <a href="https://github.com/iJulioDuarte">
-  <img height="180px" width="400em" src="https://github-readme-stats.vercel.app/api?username=iJulioDuarte&theme=github_dark&include_all_commits=true"/>
+  <img height="180px" width="400em" src="https://github-readme-stats.vercel.app/api?username=iJulioDuarte&theme=github_dark/>
   <img height="180px" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iJulioDuarte&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
