@@ -1,9 +1,7 @@
 - 👋 Olá, eu sou @iJulioDuarte
 - 🌅 Sou do Brasil
 - 📩 Meu email é: juliocesarvduarte2003@gmail.com
-- 👨‍💻 Atualmente estou estagiando na FRG | Informática
-- ✨ Web Front End developer
-
+- 👨‍💻 Atualmente sou Desenvolvedor Front-end Júnior na FRG Informática
 
 <div>
 <br>
