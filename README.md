@@ -10,7 +10,7 @@
 Sobre mim. 👀
 </h2>
           
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=12&center=true&vCenter=true&width=1000&lines=Sou+apaixonado+por+tecnologia,;Além+de+atuar+como+desenvolvedor+Front-end;Estou+me+especializando+na+área+de+Ciência+de+Dados.;Minha+missão+é+estar+em+constante+aprendizado+e+evolução,+sempre+buscando+aprimorar+minhas+habilidades+no+universo+da+tecnologia.+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=12&center=false&vCenter=true&width=1000&lines=Olá,+sou+Júlio+Duarte,;Além+de+atuar+como+desenvolvedor+Front-end;Estou+me+especializando+na+área+de+Ciência+de+Dados.;Minha+missão+é+estar+em+constante+aprendizado+e+evolução,+sempre+buscando+aprimorar+minhas+habilidades+no+universo+da+tecnologia.+:%29)](https://git.io/typing-svg)
 
 <p>Você pode entrar em contato comigo por meio deste e-mail: <a href="mailto:juliocesarvduarte2003@gmail.com">Click here</a>.</p> 
 <br>
