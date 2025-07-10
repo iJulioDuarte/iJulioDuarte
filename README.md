@@ -12,7 +12,11 @@ Sobre mim. 👀
           
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=14&center=false&vCenter=true&width=1000&lines=Olá,+me+chamo+Júlio+Duarte.;Além+de+atuar+como+desenvolvedor+Front-end,+estou+me+especializando+na+área+de+Ciência+de+Dados.;Minha+missão+é+estar+em+constante+aprendizado+e+evolução,+sempre+buscando+aprimorar+minhas+habilidades+no+universo+da+tecnologia.+:%29)](https://git.io/typing-svg)
 
-<p>Você pode entrar em contato comigo por meio deste e-mail: <a href="mailto:juliocesarvduarte2003@gmail.com">Click here</a>.</p> 
+<p>sou desenvolvedor front-end em transição de carreira para a área de **Ciência de Dados**. Atualmente estou aprofundando meus conhecimentos em Python, análise de dados, visualização e machine learning.
+
+Neste perfil você encontrará meus projetos de estudo, experimentos com dados reais e contribuições relacionadas à minha evolução como futuro cientista de dados.
+
+📊 Em busca de desafios que unam tecnologia, dados e impacto real.</p> 
 <br>
 
 <p>Minhas habilidades são: </p>
