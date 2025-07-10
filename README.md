@@ -22,7 +22,7 @@ Neste perfil você encontrará meus projetos de estudo, experimentos com dados r
 <p>Minhas habilidades são: </p>
 <div align="left">
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,typescript,react,next,tailwind,webpack,redux,git,figma,vscode
+[![Minhas Habilidades](https://skillicons.dev/icons?i=python,mysql,github,html,css,js,typescript,react,figma,vscode
 )](https://skillicons.dev)
 
   </div>
